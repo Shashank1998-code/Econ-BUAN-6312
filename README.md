@@ -14,6 +14,5 @@ Throughout this course you will hone your understanding of linear and non-linear
 * Conduct empirical economic research using the knowledge and techniques of econometric models you have learned in this class
 
 ## Repository objectives
-
-* Syncing code between team-members 
+ 
 * Logging homeworks and course work
